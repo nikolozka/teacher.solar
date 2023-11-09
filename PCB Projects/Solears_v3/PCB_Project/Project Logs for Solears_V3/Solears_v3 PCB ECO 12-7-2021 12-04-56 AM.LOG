@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3 Pin=PSPI1-4
+Removed Pin From Net: NetName=SCK Pin=PSPI1-5
+Removed Pin From Net: NetName=3V3 Pin=PSPI2-4
+Removed Pin From Net: NetName=SCK Pin=PSPI2-5
+Removed Pin From Net: NetName=3V3 Pin=PSPI3-4
+Removed Pin From Net: NetName=SCK Pin=PSPI3-5
+Added Pin To Net: NetName=CIPO Pin=PSPI1-4
+Added Pin To Net: NetName=3V3 Pin=PSPI1-5
+Added Pin To Net: NetName=CIPO Pin=PSPI2-4
+Added Pin To Net: NetName=3V3 Pin=PSPI2-5
+Added Pin To Net: NetName=CIPO Pin=PSPI3-4
+Added Pin To Net: NetName=3V3 Pin=PSPI3-5

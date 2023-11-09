@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=L1-1
+Removed Member From Class: ClassName=Harvester Member=L1
+Added Component: Designator=L(MSS1278H)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC2_2 Pin=L-1
+Added Pin To Net: NetName=NetL_2 Pin=L-2
+Added Pin To Net: NetName=NetL_2 Pin=RS1-1
+Added Pin To Net: NetName=NetL_2 Pin=U2-10
+Added Net: Name=NetL_2
+Added Member To Class: ClassName=Harvester Member=Component L MSS1278H
+Added Room: Name=Consumer
+Added Room: Name=Harvester

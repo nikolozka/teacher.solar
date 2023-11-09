@@ -1,0 +1,213 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VIN Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VCAP Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=VSOLAR Pin=C12-2
+Removed Pin From Net: NetName=PV+ Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=PV+ Pin=L3-1
+Removed Pin From Net: NetName=VCAP Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=VSOLAR Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=PV+ Pin=R14-1
+Removed Pin From Net: NetName=VSOLAR Pin=R15-1
+Removed Pin From Net: NetName=VSOLAR Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=SC1-1
+Removed Pin From Net: NetName=VCAP Pin=SC1-2
+Removed Pin From Net: NetName=VIN Pin=U1-4
+Removed Pin From Net: NetName=VIN Pin=U1-7
+Removed Pin From Net: NetName=VIN Pin=U1-9
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=VCAP Pin=U1-14
+Removed Pin From Net: NetName=VCAP Pin=U1-15
+Removed Pin From Net: NetName=VCAP Pin=U1-16
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=VSOLAR Pin=U4-4
+Removed Member From Class: ClassName=Harvester Member=C1
+Removed Member From Class: ClassName=Harvester Member=C2
+Removed Member From Class: ClassName=Harvester Member=C3
+Removed Member From Class: ClassName=Harvester Member=C4
+Removed Member From Class: ClassName=Harvester Member=C9
+Removed Member From Class: ClassName=Harvester Member=C10
+Removed Member From Class: ClassName=Harvester Member=C11
+Removed Member From Class: ClassName=Harvester Member=C12
+Removed Member From Class: ClassName=Harvester Member=C13
+Removed Member From Class: ClassName=Harvester Member=L1
+Removed Member From Class: ClassName=Harvester Member=L3
+Removed Member From Class: ClassName=Harvester Member=R1
+Removed Member From Class: ClassName=Harvester Member=R2
+Removed Member From Class: ClassName=Harvester Member=R3
+Removed Member From Class: ClassName=Harvester Member=R12
+Removed Member From Class: ClassName=Harvester Member=R13
+Removed Member From Class: ClassName=Harvester Member=R14
+Removed Member From Class: ClassName=Harvester Member=R15
+Removed Member From Class: ClassName=Harvester Member=R16
+Removed Member From Class: ClassName=Harvester Member=SC1
+Removed Member From Class: ClassName=Harvester Member=U1
+Removed Member From Class: ClassName=Harvester Member=U4
+Change Component Designator: OldDesignator=G1 NewDesignator=GI1
+Change Component Designator: OldDesignator=G2 NewDesignator=GI2
+Change Component Designator: OldDesignator=G3 NewDesignator=GI3
+Change Component Designator: OldDesignator=G4 NewDesignator=GA4
+Change Component Designator: OldDesignator=G5 NewDesignator=GA5
+Change Component Designator: OldDesignator=G6 NewDesignator=GA6
+Added Component: Designator=GD7(SEEED_110990030)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GD8(SEEED_110990030)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GD9(SEEED_110990030)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=583576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "110990030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/110990030/Seeed%20Technology%20Co.,%20Ltd/view-part/583576/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(HDR1X9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PHP(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PSPI1(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PSPI2(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PSPI3(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(E3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(E3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D6 Pin=GD7-1
+Added Pin To Net: NetName=D10 Pin=GD7-2
+Added Pin To Net: NetName=3V3 Pin=GD7-3
+Added Pin To Net: NetName=GND Pin=GD7-4
+Added Pin To Net: NetName=D4 Pin=GD8-1
+Added Pin To Net: NetName=D5 Pin=GD8-2
+Added Pin To Net: NetName=3V3 Pin=GD8-3
+Added Pin To Net: NetName=GND Pin=GD8-4
+Added Pin To Net: NetName=D2 Pin=GD9-1
+Added Pin To Net: NetName=D3 Pin=GD9-2
+Added Pin To Net: NetName=3V3 Pin=GD9-3
+Added Pin To Net: NetName=GND Pin=GD9-4
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=WSEL Pin=J1-4
+Added Pin To Net: NetName=DOUT Pin=J1-5
+Added Pin To Net: NetName=BCLK Pin=J1-6
+Added Pin To Net: NetName=D2 Pin=PSPI1-1
+Added Pin To Net: NetName=COPI Pin=PSPI1-3
+Added Pin To Net: NetName=3V3 Pin=PSPI1-4
+Added Pin To Net: NetName=GND Pin=PSPI1-6
+Added Pin To Net: NetName=D3 Pin=PSPI2-1
+Added Pin To Net: NetName=COPI Pin=PSPI2-3
+Added Pin To Net: NetName=3V3 Pin=PSPI2-4
+Added Pin To Net: NetName=GND Pin=PSPI2-6
+Added Pin To Net: NetName=D4 Pin=PSPI3-1
+Added Pin To Net: NetName=COPI Pin=PSPI3-3
+Added Pin To Net: NetName=3V3 Pin=PSPI3-4
+Added Pin To Net: NetName=GND Pin=PSPI3-6
+Added Pin To Net: NetName=5V Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=VIN Pin=Q2-3
+Added Pin To Net: NetName=AGND Pin=J1-8
+Added Pin To Net: NetName=AGND Pin=PHP-2
+Added Net: Name=AGND
+Added Pin To Net: NetName=LOUT Pin=J1-7
+Added Pin To Net: NetName=LOUT Pin=PHP-1
+Added Net: Name=LOUT
+Added Pin To Net: NetName=MUTE Pin=J2-3
+Added Net: Name=MUTE
+Added Pin To Net: NetName=NetLabel251 Pin=PSPI1-5
+Added Pin To Net: NetName=NetLabel251 Pin=PSPI2-5
+Added Pin To Net: NetName=NetLabel251 Pin=PSPI3-5
+Added Net: Name=NetLabel251
+Added Pin To Net: NetName=ROUT Pin=J1-9
+Added Pin To Net: NetName=ROUT Pin=PHP-3
+Added Net: Name=ROUT
+Added Pin To Net: NetName=SCK Pin=PSPI1-2
+Added Pin To Net: NetName=SCK Pin=PSPI2-2
+Added Pin To Net: NetName=SCK Pin=PSPI3-2
+Added Net: Name=SCK
+Added Pin To Net: NetName=SF1 Pin=J2-2
+Added Net: Name=SF1
+Added Pin To Net: NetName=SF2 Pin=J2-4
+Added Net: Name=SF2
+Added Member To Class: ClassName=Consumer Member=Component GD7 110990030
+Added Member To Class: ClassName=Consumer Member=Component GD8 110990030
+Added Member To Class: ClassName=Consumer Member=Component GD9 110990030
+Added Member To Class: ClassName=Consumer Member=Component J1 Header 9
+Added Member To Class: ClassName=Consumer Member=Component J2 Header 6
+Added Member To Class: ClassName=Consumer Member=Component PHP Header 3
+Added Member To Class: ClassName=Consumer Member=Component PSPI1 Header 6
+Added Member To Class: ClassName=Consumer Member=Component PSPI2 Header 6
+Added Member To Class: ClassName=Consumer Member=Component PSPI3 Header 6
+Added Member To Class: ClassName=Consumer Member=Component Q1 MOSFET-P
+Added Member To Class: ClassName=Consumer Member=Component Q2 MOSFET-P

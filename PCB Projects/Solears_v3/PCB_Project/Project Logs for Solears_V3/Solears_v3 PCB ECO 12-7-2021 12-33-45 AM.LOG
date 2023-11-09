@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VIN Pin=PPSEL-2
+Removed Pin From Net: NetName=GND Pin=PVEXT-2
+Removed Member From Class: ClassName=Harvester Member=PPSEL
+Removed Member From Class: ClassName=Harvester Member=PVEXT
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-15
+Added Pin To Net: NetName=3V3 Pin=U3-16
+Change Net Name : Old Net Name=PV+ New Net Name=VSOLAR

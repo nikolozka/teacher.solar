@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SPSHDN Pin=PSPK-1
+Removed Pin From Net: NetName=SPSHDN Pin=R34-1
+Removed Pin From Net: NetName=SPSHDN Pin=U6-9
+Added Pin To Net: NetName=SPSHDNL Pin=PSPK-1
+Added Pin To Net: NetName=SPSHDNL Pin=R34-1
+Added Pin To Net: NetName=SPSHDNL Pin=U6-9
+Added Net: Name=SPSHDNL

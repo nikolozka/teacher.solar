@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Workspace\Solears\Solears_v1\Solears_v1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=solears_v1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=solears_v1-slotholes.txt|DrillLayers=gtl,gbl

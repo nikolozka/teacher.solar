@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C36 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C37 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C38 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C39 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C40 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C41 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Change Component Footprint: Designator=C42 Old Footprint=RAD-0.3 New Footprint=1608[0603]
+Added Room: Name=Consumer
+Added Room: Name=Harvester

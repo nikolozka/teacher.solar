@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=3V3 Pin=RC1-1
+Added Pin To Net: NetName=GND Pin=RC2-2
+Added Pin To Net: NetName=3V3 Pin=RC3-1
+Added Pin To Net: NetName=GND Pin=RC4-2
+Added Pin To Net: NetName=3V3 Pin=RC5-1
+Added Pin To Net: NetName=GND Pin=RC6-2
+Added Pin To Net: NetName=3V3 Pin=RC7-1
+Added Pin To Net: NetName=GND Pin=RC8-2
+Added Pin To Net: NetName=3V3 Pin=RC9-1
+Added Pin To Net: NetName=GND Pin=RC10-2
+Added Room: Name=Consumer
+Added Room: Name=Harvester

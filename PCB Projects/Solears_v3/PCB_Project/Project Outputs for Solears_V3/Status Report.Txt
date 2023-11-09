@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Solears_V3.PrjPcb]
+   Generated File[Solears_v3.TXT]
+   Generated File[Solears_v3.LDP]
+   Generated File[Solears_v3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:21:25 PM On 12/7/2021

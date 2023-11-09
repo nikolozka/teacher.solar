@@ -1,0 +1,25 @@
+Partlist exported from C:/Users/HP/Documents/eagle/Supercap charger/minisc.sch at 6.7.2017 14:12
+
+Part Value             Device                Package     Description                                                                                        MPN     PACKAGE PROD_ID    SUPPLIER             VALUE 
+C1                     CPOL-EUE3.5-8         E3,5-8      POLARIZED CAPACITOR, European symbol                                                                                                                     
+C2                     CPOL-EUE3.5-8         E3,5-8      POLARIZED CAPACITOR, European symbol                                                                                                                     
+C3                     CPOL-EUE3.5-8         E3,5-8      POLARIZED CAPACITOR, European symbol                                                                                                                     
+C4                     CPOL-EUE3.5-8         E3,5-8      POLARIZED CAPACITOR, European symbol                                                                                                                     
+C5   1uF               CAP0805               0805        Capacitor                                                                                                                                                
+C6   1uF               CAP0805               0805        Capacitor                                                                                                                                                
+C7   0.1uF             CAP0805               0805        Capacitor                                                                                                                                                
+C8                     CAP_POL3528-KIT       EIA3528-KIT Capacitor Polarized                                                                                                                                      
+C9   10uF              CAP0805               0805        Capacitor                                                                                                                                                
+C10  10uF              CAP0805               0805        Capacitor                                                                                                                                                
+C11                    CAP_POL3528-KIT       EIA3528-KIT Capacitor Polarized                                                                                                                                      
+C12                    CAP0805               0805        Capacitor                                                                                                                                                
+D1                     DIODE-SCHOTTKY-BAT20J SOD-323     Schottky diodes in SFE's production catalog                                                                        DIO-11623                       BAT20J
+IC1  TPS610986DSET     TPS610985DSET         WSON-6      Power Management IC, Current Synchronous Boost, Integrated LDO/Load Switch, 0.7V - 4.5V in, WSON-6                                                       
+J1                     M02PTH                1X02        Standard 2-pin 0.1" header. Use with                                                                                                                     
+J2                     M02PTH                1X02        Standard 2-pin 0.1" header. Use with                                                                                                                     
+J3                     M02PTH                1X02        Standard 2-pin 0.1" header. Use with                                                                                                                     
+J5                     M03PTH                1X03        Header 3                                                                                                                                                 
+L1   SRN4012T-4R7M     INDUCTORCR54-3.3UH    CR54        Inductors                                                                                                          NDUC-11157                      3.3uH 
+R1   400               RESISTOR0805-RES      0805        Resistor                                                                                                                                                 
+R2   10M               RESISTOR0805-RES      0805        Resistor                                                                                                                                                 
+U1   MIC5365-2.7YC5-TR MIC5365/6             SC-70-5     150mA Low-Noise LDO Regulator                                                                      MIC5365 sc-70-5            MICREL SEMICONDUCTOR       

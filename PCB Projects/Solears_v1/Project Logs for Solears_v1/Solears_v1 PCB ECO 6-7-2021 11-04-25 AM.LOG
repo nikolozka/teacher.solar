@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Member From Class: ClassName=Consumer Member=R17
+Removed Member From Class: ClassName=Consumer Member=R18
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=PHP-2
+Added Pin To Net: NetName=GND Pin=PHPOUT-3
+Added Pin To Net: NetName=GND Pin=PLINEIN-3
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Room: Name=Consumer
+Added Room: Name=Harvester

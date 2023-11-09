@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetC5_2 Pin=J-1
+Added Pin To Net: NetName=NetC5_2 Pin=R6-2
+Added Pin To Net: NetName=NetC5_2 Pin=U7-5
+Change Net Name : Old Net Name=NetC5_2 New Net Name=VBUSEXT
+Added Room: Name=Consumer
+Added Room: Name=Harvester

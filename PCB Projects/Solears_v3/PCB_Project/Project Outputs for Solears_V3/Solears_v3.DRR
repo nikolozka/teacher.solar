@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Solears_v3.PcbDoc   12/7/2021  11:21:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Solears_v3.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             64        PTH        0.00inch (0.00mm)
+T3      28mil (0.701mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             40        PTH        0.00inch (0.00mm)
+T5      35mil (0.899mm)                                           Round             50        PTH        0.00inch (0.00mm)
+T6      40mil (1.016mm)                                           Round             30        PTH        0.00inch (0.00mm)
+T7      65mil (1.651mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              201
+
+Total Processing Time (hh:mm:ss) : 00:00:01
